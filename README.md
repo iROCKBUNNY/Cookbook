@@ -1,2 +1,2 @@
 # Recipe
-My Home Recipes
+My Home-made Recipes
