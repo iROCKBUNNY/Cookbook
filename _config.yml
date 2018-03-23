@@ -1,0 +1,37 @@
+google_analytics_id: UA-33449675-9
+
+repository: https://github.com/iROCKBUNNY/Cookbook
+
+timezone: Asia/Shanghai
+
+title: Cookbook
+description: My Home-made Recipes
+keywords: Cookbook, Home-made, Recipes, iROCKBUNNY
+url: http://cookbook.irockbunny.com
+
+author: iROCKBUNNY
+author_url: http://irockbunny.com
+organization: TEELAB
+organization_url: http://teelab.net
+
+contact: contact[at]irockbunny[dot]com
+github: https://github.com/iROCKBUNNY
+
+image: /images/logo.png
+logo: /images/logo.png
+
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+
+exclude:
+- .gitignore
+- .travis.yml
+- LICENSE
+- README.md
+- CNAME
+- archive
+- Gemfile
+- Gemfile.lock
+- script
+- vendor
