@@ -1,1 +1,8 @@
 /* common.css */
+
+.ui.header.segment,
+.ui.main.segment,
+.ui.footer.segment {
+    padding-top: 6em;
+    padding-bottom: 6em;
+}
