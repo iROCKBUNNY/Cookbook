@@ -16,7 +16,11 @@
 <body>
     {% include header.html %}
     <div class="ui main vertical segment">
-        {{ content }}
+        <div class="ui container">
+            <div class="ui three stackable cards">
+                {{ content }}
+            </div>
+        </div>
     </div>
     {% include footer.html %}
     <script type="text/javascript" src="//unpkg.com/jquery/dist/jquery.min.js"></script>

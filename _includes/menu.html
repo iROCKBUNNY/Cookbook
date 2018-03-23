@@ -4,8 +4,8 @@
             {%- assign quantity = site.data.recipes.size -%}
         {%- else -%}
             {%- assign quantity = 0 -%}
-            {%- for item in site.data.recipes -%}
-                {%- if item.category == menu_item.name -%}
+            {%- for recipe in site.data.recipes -%}
+                {%- if recipe.category == menu_item.name -%}
                     {%- assign quantity = quantity | plus: 1 -%}
                 {%- endif -%}
             {%- endfor -%}

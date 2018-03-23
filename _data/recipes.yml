@@ -1,47 +1,85 @@
 - name: 麻酱拌面
   category: 面
+  color: olive
   ingredients:
-  - 面
-  - 菠菜
-  - 香菜
-  - 大蒜
-  - 酱油
-  - 醋
-  - 芝麻酱
-  - 花椒粉
+  - name: 面
+    quantity: 200g
+  - name: 菠菜
+    quantity: 150g
+  - name: 香菜
+    quantity: 少许
+  - name: 蒜蓉
+    quantity: 少许
+  - name: 酱油
+    quantity: 少许
+  - name: 醋
+    quantity: 少许
+  - name: 芝麻酱
+    quantity: 少许
+  - name: 香油
+    quantity: 少许
+  - name: 花椒粉
+    quantity: 少许
 
 - name: 油泼面
   category: 面
+  color: olive
   ingredients:
-  - 面
-  - 火腿肠
-  - 青椒
-  - 叶菜类
-  - 大蒜
-  - 生姜
-  - 酱油
-  - 醋
-  - 花椒粉
-  - 鸡精
-  - 油
+  - name: 面
+    quantity: 200g
+  - name: 火腿肠
+    quantity: 100g
+  - name: 青椒
+    quantity: 1个
+  - name: 叶菜类
+    quantity: 适量
+  - name: 蒜蓉
+    quantity: 少许
+  - name: 姜丝
+    quantity: 少许
+  - name: 酱油
+    quantity: 少许
+  - name: 醋
+    quantity: 少许
+  - name: 花椒粉
+    quantity: 少许
+  - name: 鸡精
+    quantity: 少许
+  - name: 油
+    quantity: 适量
 
 - name: 皮蛋豆腐
   category: 凉菜
+  color: teal
   ingredients:
-  - 内酯豆腐
-  - 皮蛋
-  - 大蒜
-  - 生姜
-  - 酱油
-  - 醋
+  - name: 内酯豆腐
+    quantity: 1块
+  - name: 皮蛋
+    quantity: 1颗
+  - name: 蒜蓉
+    quantity: 少许
+  - name: 姜丝
+    quantity: 少许
+  - name: 酱油
+    quantity: 少许
+  - name: 醋
+    quantity: 少许
 
 - name: 煎豆腐
   category: 热菜
+  color: red
   ingredients:
-  - 北豆腐
-  - 油
-  - 青椒
-  - 酱油
-  - 醋
-  - 糖
-  - 番茄酱
+  - name: 北豆腐
+    quantity: 1块
+  - name: 油
+    quantity: 适量
+  - name: 青椒
+    quantity: 1个
+  - name: 酱油
+    quantity: 少许
+  - name: 醋
+    quantity: 少许
+  - name: 糖
+    quantity: 少许
+  - name: 番茄酱
+    quantity: 少许
