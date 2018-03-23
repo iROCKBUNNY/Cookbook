@@ -1,0 +1,15 @@
+<div class="ui labels">
+    {%- for menu_item in site.data.menu_items -%}
+        {%- if menu_item.name == '全部' -%}
+            {%- assign quantity = site.data.recipes.size -%}
+        {%- else -%}
+            {%- assign quantity = 0 -%}
+            {%- for item in site.data.recipes -%}
+                {%- if item.category == menu_item.name -%}
+                    {%- assign quantity = quantity | plus: 1 -%}
+                {%- endif -%}
+            {%- endfor -%}
+        {%- endif -%}
+        <a class="ui {% if menu_item.active_key == page.active_key %}{{ menu_item.color }} {% endif %}label" href="{{ menu_item.relative_url | relative_url }}">{{ menu_item.name }}<div class="detail">{{ quantity }}</div></a>
+    {%- endfor -%}
+</div>

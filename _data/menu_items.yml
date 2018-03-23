@@ -1,0 +1,19 @@
+- name: 全部
+  color: black
+  active_key: all
+  relative_url: "/"
+
+- name: 凉菜
+  color: teal
+  active_key: cold_dish
+  relative_url: "/cold-dish"
+
+- name: 热菜
+  color: red
+  active_key: hot_dish
+  relative_url: "/hot-dish/"
+
+- name: 面
+  color: olive
+  active_key: noodle
+  relative_url: "/noodle/"

@@ -1,4 +1,4 @@
-- name: 菠菜拌面
+- name: 麻酱拌面
   category: 面
   ingredients:
   - 面
@@ -9,3 +9,39 @@
   - 醋
   - 芝麻酱
   - 花椒粉
+
+- name: 油泼面
+  category: 面
+  ingredients:
+  - 面
+  - 火腿肠
+  - 青椒
+  - 叶菜类
+  - 大蒜
+  - 生姜
+  - 酱油
+  - 醋
+  - 花椒粉
+  - 鸡精
+  - 油
+
+- name: 皮蛋豆腐
+  category: 凉菜
+  ingredients:
+  - 内酯豆腐
+  - 皮蛋
+  - 大蒜
+  - 生姜
+  - 酱油
+  - 醋
+
+- name: 煎豆腐
+  category: 热菜
+  ingredients:
+  - 北豆腐
+  - 油
+  - 青椒
+  - 酱油
+  - 醋
+  - 糖
+  - 番茄酱
