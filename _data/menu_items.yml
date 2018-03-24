@@ -23,12 +23,7 @@
   active_key: staple_food
   relative_url: "/staple-food/"
 
-- name: 冷饮
+- name: 饮品
   color: blue
-  active_key: cold_drink
-  relative_url: "/cold-drink/"
-
-- name: 热饮
-  color: brown
-  active_key: hot_drink
-  relative_url: "/hot-drink/"
+  active_key: drink
+  relative_url: "/drink/"

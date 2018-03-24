@@ -1,10 +1,10 @@
 ---
 layout: cookbook
-active_key: cold_drink
+active_key: drink
 ---
 
 {%- for recipe in site.data.recipes -%}
-    {%- if recipe.category == '冷饮' -%}
+    {%- if recipe.category == '饮品' -%}
         <div class="ui {{ recipe.color }} card">
             <div class="content">
                 <div class="header">{{ recipe.name }}</div>

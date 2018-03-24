@@ -493,7 +493,7 @@
     quantity: 少许
 
 - name: 柠乐
-  category: 冷饮
+  category: 饮品
   color: blue
   ingredients:
   - name: 可乐
@@ -502,7 +502,7 @@
     quantity: 2片
 
 - name: 咸柠七
-  category: 冷饮
+  category: 饮品
   color: blue
   ingredients:
   - name: 七喜
@@ -511,7 +511,7 @@
     quantity: 半颗
 
 - name: 青柠七
-  category: 冷饮
+  category: 饮品
   color: blue
   ingredients:
   - name: 七喜
