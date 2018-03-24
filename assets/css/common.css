@@ -1,6 +1,6 @@
 /* common.css */
 
-.ui.header.segment {
+.ui.masthead.segment {
     padding-top: 6em;
     padding-bottom: 4em;
 }
@@ -14,7 +14,7 @@
 }
 
 @media only screen and (max-width: 767px) {
-    .ui.header.segment,
+    .ui.masthead.segment,
     .ui.main.segment,
     .ui.footer.segment {
         padding-top: 2em;
