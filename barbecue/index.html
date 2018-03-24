@@ -1,0 +1,24 @@
+---
+layout: cookbook
+active_key: barbecue
+---
+
+{%- for recipe in site.data.recipes -%}
+    {%- if recipe.category == '烧烤' -%}
+        <div class="ui {{ recipe.color }} card">
+            <div class="content">
+                <div class="header">{{ recipe.name }}</div>
+            </div>
+            <div class="content">
+                <div class="ui labels">
+                    {%- for ingredient in recipe.ingredients -%}
+                        <div class="ui label">{{ ingredient.name }}<div class="detail">{{ ingredient.quantity }}</div></div>
+                    {%- endfor -%}
+                </div>
+            </div>
+            <div class="extra content">
+                {{ recipe.category }}
+            </div>
+        </div>
+    {%- endif -%}
+{%- endfor -%}

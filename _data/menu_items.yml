@@ -13,7 +13,22 @@
   active_key: hot_dish
   relative_url: "/hot-dish/"
 
-- name: 面
+- name: 烧烤
+  color: orange
+  active_key: barbecue
+  relative_url: "/barbecue/"
+
+- name: 主食
   color: olive
-  active_key: noodle
-  relative_url: "/noodle/"
+  active_key: staple_food
+  relative_url: "/staple-food/"
+
+- name: 冷饮
+  color: blue
+  active_key: cold_drink
+  relative_url: "/cold-drink/"
+
+- name: 热饮
+  color: brown
+  active_key: hot_drink
+  relative_url: "/hot-drink/"

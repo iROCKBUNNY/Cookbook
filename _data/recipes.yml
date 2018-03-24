@@ -1,8 +1,397 @@
+- name: 皮蛋豆腐
+  category: 凉菜
+  color: teal
+  ingredients:
+  - name: 内酯豆腐
+    quantity: 1块
+  - name: 皮蛋
+    quantity: 1颗
+  - name: 蒜蓉
+    quantity: 少许
+  - name: 姜丝
+    quantity: 少许
+  - name: 酱油
+    quantity: 少许
+  - name: 醋
+    quantity: 少许
+
+- name: 凉拌黄瓜丝
+  category: 凉菜
+  color: teal
+  ingredients:
+  - name: 黄瓜
+    quantity: 300g
+  - name: 盐
+    quantity: 少许
+  - name: 糖
+    quantity: 少许
+  - name: 陈醋
+    quantity: 少许
+  - name: 酱油
+    quantity: 少许
+
+- name: 凉拌莴笋丝
+  category: 凉菜
+  color: teal
+  ingredients:
+  - name: 莴笋
+    quantity: 适量
+  - name: 盐
+    quantity: 少许
+  - name: 酱油
+    quantity: 少许
+  - name: 香油
+    quantity: 少许
+
+- name: 煎豆腐
+  category: 热菜
+  color: red
+  ingredients:
+  - name: 北豆腐
+    quantity: 1块
+  - name: 油
+    quantity: 适量
+  - name: 青椒
+    quantity: 1个
+  - name: 酱油
+    quantity: 少许
+  - name: 醋
+    quantity: 少许
+  - name: 糖
+    quantity: 少许
+  - name: 番茄酱
+    quantity: 少许
+
+- name: 法兰克福肠炒胡萝卜丝
+  category: 热菜
+  color: red
+  ingredients:
+  - name: 胡萝卜
+    quantity: 3根
+  - name: 法兰克福肠
+    quantity: 4根
+  - name: 橄榄油
+    quantity: 适量
+  - name: 香油
+    quantity: 少许
+  - name: 盐
+    quantity: 少许
+  - name: 糖
+    quantity: 少许
+  - name: 黑胡椒
+    quantity: 少许
+
+- name: 青椒炒鸡蛋
+  category: 热菜
+  color: red
+  ingredients:
+  - name: 青椒
+    quantity: 2个
+  - name: 鸡蛋
+    quantity: 2颗
+  - name: 橄榄油
+    quantity: 适量
+  - name: 盐
+    quantity: 少许
+  - name: 黑胡椒
+    quantity: 少许
+
+- name: 芝士焗龙虾
+  category: 热菜
+  color: red
+  ingredients:
+  - name: 龙虾
+    quantity: 1只
+  - name: 马苏里拉芝士
+    quantity: 足量
+  - name: 奶油
+    quantity: 适量
+  - name: 黄油
+    quantity: 适量
+  - name: 蒜蓉
+    quantity: 适量
+  - name: 口蘑
+    quantity: 适量
+  - name: 罗勒
+    quantity: 适量
+  - name: 盐
+    quantity: 少许
+
+- name: 蒜蓉粉丝蒸娃娃菜
+  category: 热菜
+  color: red
+  ingredients:
+  - name: 娃娃菜
+    quantity: 500g
+  - name: 粉丝
+    quantity: 适量
+  - name: 蒜茸
+    quantity: 适量
+  - name: 盐
+    quantity: 少许
+  - name: 酱油
+    quantity: 少许
+  - name: 香油
+    quantity: 少许
+
+- name: 素咖喱
+  category: 热菜
+  color: red
+  ingredients:
+  - name: 胡萝卜
+    quantity: 适量
+  - name: 土豆
+    quantity: 适量
+  - name: 西兰花
+    quantity: 适量
+  - name: 咖喱块
+    quantity: 适量
+  - name: 酱油
+    quantity: 少许
+  - name: 油
+    quantity: 少许
+
+- name: 红烩牛肉
+  category: 热菜
+  color: red
+  ingredients:
+  - name: 牛肉或牛腩
+    quantity: 适量
+  - name: 胡萝卜
+    quantity: 适量
+  - name: 土豆
+    quantity: 适量
+  - name: 番茄
+    quantity: 适量
+  - name: 酱油
+    quantity: 少许
+  - name: 冰糖
+    quantity: 少许
+  - name: 油
+    quantity: 适量
+  - name: 姜
+    quantity: 少许
+  - name: 花椒
+    quantity: 少许
+  - name: 八角
+    quantity: 少许
+
+- name: 咖喱牛肉
+  category: 热菜
+  color: red
+  ingredients:
+  - name: 牛肉或牛腩
+    quantity: 适量
+  - name: 胡萝卜
+    quantity: 适量
+  - name: 土豆
+    quantity: 适量
+  - name: 西兰花
+    quantity: 适量
+  - name: 咖喱块
+    quantity: 适量
+  - name: 酱油
+    quantity: 少许
+  - name: 冰糖
+    quantity: 少许
+  - name: 油
+    quantity: 少许
+  - name: 姜
+    quantity: 少许
+  - name: 花椒
+    quantity: 少许
+  - name: 八角
+    quantity: 少许
+
+- name: 红烧牛肉
+  category: 热菜
+  color: red
+  ingredients:
+  - name: 牛肉或牛腩
+    quantity: 适量
+  - name: 酱油
+    quantity: 少许
+  - name: 冰糖
+    quantity: 少许
+  - name: 油
+    quantity: 少许
+  - name: 花雕酒
+    quantity: 少许
+  - name: 姜
+    quantity: 少许
+  - name: 花椒
+    quantity: 少许
+  - name: 八角等
+    quantity: 少许
+
+- name: 腊肠粉丝煲
+  category: 热菜
+  color: red
+  ingredients:
+  - name: 粉丝
+    quantity: 适量
+  - name: 广式腊肠
+    quantity: 适量
+  - name: 香菇
+    quantity: 适量
+  - name: 油
+    quantity: 少许
+  - name: 酱油
+    quantity: 少许
+  - name: 香油
+    quantity: 少许
+
+- name: 水煮时蔬
+  category: 热菜
+  color: red
+  ingredients:
+  - name: 时蔬
+    quantity: 400g
+  - name: 酱油
+    quantity: 少许
+  - name: 香油
+    quantity: 少许
+
+- name: 蒜蓉大虾
+  category: 热菜
+  color: red
+  ingredients:
+  - name: 大虾
+    quantity: 适量
+  - name: 蒜蓉
+    quantity: 适量
+  - name: 盐
+    quantity: 少许
+  - name: 酱油
+    quantity: 少许
+  - name: 香油
+    quantity: 少许
+
+- name: 回锅手撕鸡
+  category: 热菜
+  color: red
+  ingredients:
+  - name: 鸡腿
+    quantity: 适量
+  - name: 胧椒
+    quantity: 适量
+  - name: 盐
+    quantity: 少许
+  - name: 姜
+    quantity: 少许
+  - name: 葱
+    quantity: 少许
+  - name: 蒜
+    quantity: 少许
+  - name: 花椒
+    quantity: 少许
+  - name: 八角
+    quantity: 少许
+
+- name: 瑶柱蒸水蛋
+  category: 热菜
+  color: red
+  ingredients:
+  - name: 鸡蛋
+    quantity: 适量
+  - name: 瑶柱
+    quantity: 少许
+  - name: 盐
+    quantity: 少许
+  - name: 酱油
+    quantity: 少许
+  - name: 香油
+    quantity: 少许
+
+- name: 蒜蓉金针菇
+  category: 热菜
+  color: red
+  ingredients:
+  - name: 金针菇
+    quantity: 适量
+  - name: 蒜蓉
+    quantity: 适量
+  - name: 辣椒
+    quantity: 少许
+  - name: 盐
+    quantity: 少许
+  - name: 酱油
+    quantity: 少许
+  - name: 香油
+    quantity: 少许
+
+- name: 红酒汁牛排
+  category: 热菜
+  color: red
+  ingredients:
+  - name: 牛排
+    quantity: 适量
+  - name: 口蘑
+    quantity: 适量
+  - name: 红酒
+    quantity: 少许
+  - name: 黄油
+    quantity: 少许
+  - name: 黑胡椒
+    quantity: 少许
+  - name: 盐
+    quantity: 少许
+
+- name: 烤鸡翅中
+  category: 烧烤
+  color: orange
+  ingredients:
+  - name: 鸡翅中
+    quantity: 足量
+  - name: 烧烤酱
+    quantity: 适量
+  - name: 烧烤粉
+    quantity: 适量
+  - name: 盐
+    quantity: 少许
+
+- name: 叉烧酱烤鸡腿
+  category: 烧烤
+  color: orange
+  ingredients:
+  - name: 鸡腿
+    quantity: 适量
+  - name: 叉烧酱
+    quantity: 适量
+  - name: 盐
+    quantity: 少许
+  - name: 蜂蜜
+    quantity: 少许
+
+- name: 烤红薯
+  category: 烧烤
+  color: orange
+  ingredients:
+  - name: 红薯
+    quantity: 适量
+  - name: 黄油
+    quantity: 少许
+
+- name: 蒜蓉烤番茄
+  category: 烧烤
+  color: orange
+  ingredients:
+  - name: 番茄
+    quantity: 适量
+  - name: 蒜蓉
+    quantity: 适量
+  - name: 盐
+    quantity: 少许
+  - name: 黑胡椒
+    quantity: 少许
+  - name: 黄油
+    quantity: 少许
+
 - name: 麻酱拌面
-  category: 面
+  category: 主食
   color: olive
   ingredients:
-  - name: 面
+  - name: 面条
     quantity: 200g
   - name: 豆腐皮
     quantity: 50g
@@ -24,10 +413,10 @@
     quantity: 少许
 
 - name: 油泼面
-  category: 面
+  category: 主食
   color: olive
   ingredients:
-  - name: 面
+  - name: 面条
     quantity: 200g
   - name: 火腿肠
     quantity: 100g
@@ -50,38 +439,82 @@
   - name: 油
     quantity: 适量
 
-- name: 皮蛋豆腐
-  category: 凉菜
-  color: teal
+- name: 青汁意面
+  category: 主食
+  color: olive
   ingredients:
-  - name: 内酯豆腐
-    quantity: 1块
-  - name: 皮蛋
-    quantity: 1颗
-  - name: 蒜蓉
-    quantity: 少许
-  - name: 姜丝
-    quantity: 少许
-  - name: 酱油
-    quantity: 少许
-  - name: 醋
+  - name: 意面
+    quantity: 150g
+  - name: 菠菜
+    quantity: 足量
+  - name: 罗勒
+    quantity: 适量
+  - name: 奶油
+    quantity: 适量
+  - name: 黄油
+    quantity: 适量
+  - name: 盐
     quantity: 少许
 
-- name: 煎豆腐
-  category: 热菜
-  color: red
+- name: 香菜鸡蛋水饺
+  category: 主食
+  color: olive
   ingredients:
-  - name: 北豆腐
-    quantity: 1块
+  - name: 面粉
+    quantity: 400g
+  - name: 香菜
+    quantity: 500g
+  - name: 鸡蛋
+    quantity: 5颗
   - name: 油
     quantity: 适量
-  - name: 青椒
-    quantity: 1个
-  - name: 酱油
+  - name: 盐
     quantity: 少许
+  - name: 水
+    quantity: 足量
   - name: 醋
     quantity: 少许
-  - name: 糖
+  - name: 酱油
     quantity: 少许
-  - name: 番茄酱
+
+- name: 香菇蒸肉饼
+  category: 主食
+  color: olive
+  ingredients:
+  - name: 猪肉
+    quantity: 适量
+  - name: 香菇
+    quantity: 适量
+  - name: 油
+    quantity: 适量
+  - name: 盐
     quantity: 少许
+  - name: 香油
+    quantity: 少许
+
+- name: 柠乐
+  category: 冷饮
+  color: blue
+  ingredients:
+  - name: 可乐
+    quantity: 350ml
+  - name: 柠檬
+    quantity: 2片
+
+- name: 咸柠七
+  category: 冷饮
+  color: blue
+  ingredients:
+  - name: 七喜
+    quantity: 350ml
+  - name: 越南咸柠檬
+    quantity: 半颗
+
+- name: 青柠七
+  category: 冷饮
+  color: blue
+  ingredients:
+  - name: 七喜
+    quantity: 350ml
+  - name: 青柠
+    quantity: 半颗
