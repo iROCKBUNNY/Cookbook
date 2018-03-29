@@ -1,7 +1,9 @@
 - name: 皮蛋豆腐
   category: 凉菜
   color: teal
-  editors_choice: true
+  label:
+    content: "Editor's Choice"
+    color: yellow
   ingredients:
   - name: 内酯豆腐
     quantity: 1块
@@ -19,7 +21,6 @@
 - name: 凉拌黄瓜丝
   category: 凉菜
   color: teal
-  editors_choice: false
   ingredients:
   - name: 黄瓜
     quantity: 300g
@@ -35,7 +36,6 @@
 - name: 凉拌莴笋丝
   category: 凉菜
   color: teal
-  editors_choice: false
   ingredients:
   - name: 莴笋
     quantity: 适量
@@ -49,7 +49,9 @@
 - name: 煎豆腐
   category: 热菜
   color: orange
-  editors_choice: true
+  label:
+    content: "Editor's Choice"
+    color: yellow
   ingredients:
   - name: 北豆腐
     quantity: 1块
@@ -69,7 +71,9 @@
 - name: 法兰克福肠炒胡萝卜丝
   category: 热菜
   color: orange
-  editors_choice: true
+  label:
+    content: "Editor's Choice"
+    color: yellow
   ingredients:
   - name: 胡萝卜
     quantity: 3根
@@ -89,7 +93,6 @@
 - name: 青椒炒鸡蛋
   category: 热菜
   color: orange
-  editors_choice: false
   ingredients:
   - name: 青椒
     quantity: 2个
@@ -105,7 +108,9 @@
 - name: 芝士焗龙虾
   category: 热菜
   color: orange
-  editors_choice: true
+  label:
+    content: "Editor's Choice"
+    color: yellow
   ingredients:
   - name: 龙虾
     quantity: 1只
@@ -127,7 +132,6 @@
 - name: 蒜蓉粉丝蒸娃娃菜
   category: 热菜
   color: orange
-  editors_choice: false
   ingredients:
   - name: 娃娃菜
     quantity: 500g
@@ -145,7 +149,6 @@
 - name: 素咖喱
   category: 热菜
   color: orange
-  editors_choice: false
   ingredients:
   - name: 胡萝卜
     quantity: 适量
@@ -163,7 +166,6 @@
 - name: 红烩牛肉
   category: 热菜
   color: orange
-  editors_choice: false
   ingredients:
   - name: 牛肉或牛腩
     quantity: 适量
@@ -189,7 +191,6 @@
 - name: 咖喱牛肉
   category: 热菜
   color: orange
-  editors_choice: false
   ingredients:
   - name: 牛肉或牛腩
     quantity: 适量
@@ -217,7 +218,6 @@
 - name: 红烧牛肉
   category: 热菜
   color: orange
-  editors_choice: false
   ingredients:
   - name: 牛肉或牛腩
     quantity: 适量
@@ -239,7 +239,6 @@
 - name: 腊肠粉丝煲
   category: 热菜
   color: orange
-  editors_choice: false
   ingredients:
   - name: 粉丝
     quantity: 适量
@@ -257,7 +256,6 @@
 - name: 水煮时蔬
   category: 热菜
   color: orange
-  editors_choice: false
   ingredients:
   - name: 时蔬
     quantity: 400g
@@ -269,7 +267,6 @@
 - name: 蒜蓉大虾
   category: 热菜
   color: orange
-  editors_choice: false
   ingredients:
   - name: 大虾
     quantity: 适量
@@ -285,7 +282,6 @@
 - name: 回锅手撕鸡
   category: 热菜
   color: orange
-  editors_choice: false
   ingredients:
   - name: 鸡腿
     quantity: 适量
@@ -307,7 +303,6 @@
 - name: 瑶柱蒸水蛋
   category: 热菜
   color: orange
-  editors_choice: false
   ingredients:
   - name: 鸡蛋
     quantity: 适量
@@ -323,7 +318,6 @@
 - name: 蒜蓉金针菇
   category: 热菜
   color: orange
-  editors_choice: false
   ingredients:
   - name: 金针菇
     quantity: 适量
@@ -341,7 +335,6 @@
 - name: 红酒汁牛排
   category: 热菜
   color: orange
-  editors_choice: false
   ingredients:
   - name: 牛排
     quantity: 适量
@@ -359,7 +352,6 @@
 - name: 烤鸡翅中
   category: 烧烤
   color: brown
-  editors_choice: false
   ingredients:
   - name: 鸡翅中
     quantity: 足量
@@ -373,7 +365,6 @@
 - name: 叉烧酱烤鸡腿
   category: 烧烤
   color: brown
-  editors_choice: false
   ingredients:
   - name: 鸡腿
     quantity: 适量
@@ -387,7 +378,6 @@
 - name: 烤红薯
   category: 烧烤
   color: brown
-  editors_choice: false
   ingredients:
   - name: 红薯
     quantity: 适量
@@ -397,7 +387,6 @@
 - name: 蒜蓉烤番茄
   category: 烧烤
   color: brown
-  editors_choice: false
   ingredients:
   - name: 番茄
     quantity: 适量
@@ -413,7 +402,9 @@
 - name: 麻酱拌面
   category: 主食
   color: olive
-  editors_choice: true
+  label:
+    content: "Editor's Choice"
+    color: yellow
   ingredients:
   - name: 面条
     quantity: 200g
@@ -439,7 +430,9 @@
 - name: 油泼面
   category: 主食
   color: olive
-  editors_choice: true
+  label:
+    content: "Editor's Choice"
+    color: yellow
   ingredients:
   - name: 面条
     quantity: 200g
@@ -467,7 +460,6 @@
 - name: 青汁意面
   category: 主食
   color: olive
-  editors_choice: false
   ingredients:
   - name: 意面
     quantity: 150g
@@ -485,7 +477,9 @@
 - name: 红薯饭
   category: 主食
   color: olive
-  editors_choice: true
+  label:
+    content: "Editor's Choice"
+    color: yellow
   ingredients:
   - name: 大米
     quantity: 足量
@@ -497,7 +491,6 @@
 - name: 甜玉米饭
   category: 主食
   color: olive
-  editors_choice: false
   ingredients:
   - name: 大米
     quantity: 足量
@@ -509,7 +502,6 @@
 - name: 香菜鸡蛋水饺
   category: 主食
   color: olive
-  editors_choice: false
   ingredients:
   - name: 面粉
     quantity: 400g
@@ -531,7 +523,6 @@
 - name: 香菇蒸肉饼
   category: 主食
   color: olive
-  editors_choice: false
   ingredients:
   - name: 猪肉
     quantity: 适量
@@ -547,7 +538,6 @@
 - name: 柠乐
   category: 饮品
   color: blue
-  editors_choice: false
   ingredients:
   - name: 可乐
     quantity: 300ml
@@ -557,7 +547,9 @@
 - name: 咸柠七
   category: 饮品
   color: blue
-  editors_choice: true
+  label:
+    content: "Editor's Choice"
+    color: yellow
   ingredients:
   - name: 七喜
     quantity: 300ml
@@ -567,7 +559,6 @@
 - name: 青柠七
   category: 饮品
   color: blue
-  editors_choice: false
   ingredients:
   - name: 七喜
     quantity: 300ml
