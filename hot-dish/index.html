@@ -8,6 +8,7 @@ active_key: hot_dish
         <div class="ui {{ recipe.color }} card">
             <div class="content">
                 <div class="header">{{ recipe.name }}</div>
+                {%- if recipe.editors_choice -%}<div class="ui yellow top right attached label"><i class="thumbs up icon"></i>Editor's Choice</div>{%- endif -%}
             </div>
             <div class="content">
                 <div class="ui labels">
