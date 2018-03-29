@@ -9,12 +9,12 @@
   relative_url: "/cold-dish"
 
 - name: 热菜
-  color: red
+  color: orange
   active_key: hot_dish
   relative_url: "/hot-dish/"
 
 - name: 烧烤
-  color: orange
+  color: brown
   active_key: barbecue
   relative_url: "/barbecue/"
 

@@ -48,7 +48,7 @@
 
 - name: 煎豆腐
   category: 热菜
-  color: red
+  color: orange
   editors_choice: true
   ingredients:
   - name: 北豆腐
@@ -68,7 +68,7 @@
 
 - name: 法兰克福肠炒胡萝卜丝
   category: 热菜
-  color: red
+  color: orange
   editors_choice: true
   ingredients:
   - name: 胡萝卜
@@ -88,7 +88,7 @@
 
 - name: 青椒炒鸡蛋
   category: 热菜
-  color: red
+  color: orange
   editors_choice: false
   ingredients:
   - name: 青椒
@@ -104,7 +104,7 @@
 
 - name: 芝士焗龙虾
   category: 热菜
-  color: red
+  color: orange
   editors_choice: true
   ingredients:
   - name: 龙虾
@@ -126,7 +126,7 @@
 
 - name: 蒜蓉粉丝蒸娃娃菜
   category: 热菜
-  color: red
+  color: orange
   editors_choice: false
   ingredients:
   - name: 娃娃菜
@@ -144,7 +144,7 @@
 
 - name: 素咖喱
   category: 热菜
-  color: red
+  color: orange
   editors_choice: false
   ingredients:
   - name: 胡萝卜
@@ -162,7 +162,7 @@
 
 - name: 红烩牛肉
   category: 热菜
-  color: red
+  color: orange
   editors_choice: false
   ingredients:
   - name: 牛肉或牛腩
@@ -188,7 +188,7 @@
 
 - name: 咖喱牛肉
   category: 热菜
-  color: red
+  color: orange
   editors_choice: false
   ingredients:
   - name: 牛肉或牛腩
@@ -216,7 +216,7 @@
 
 - name: 红烧牛肉
   category: 热菜
-  color: red
+  color: orange
   editors_choice: false
   ingredients:
   - name: 牛肉或牛腩
@@ -238,7 +238,7 @@
 
 - name: 腊肠粉丝煲
   category: 热菜
-  color: red
+  color: orange
   editors_choice: false
   ingredients:
   - name: 粉丝
@@ -256,7 +256,7 @@
 
 - name: 水煮时蔬
   category: 热菜
-  color: red
+  color: orange
   editors_choice: false
   ingredients:
   - name: 时蔬
@@ -268,7 +268,7 @@
 
 - name: 蒜蓉大虾
   category: 热菜
-  color: red
+  color: orange
   editors_choice: false
   ingredients:
   - name: 大虾
@@ -284,7 +284,7 @@
 
 - name: 回锅手撕鸡
   category: 热菜
-  color: red
+  color: orange
   editors_choice: false
   ingredients:
   - name: 鸡腿
@@ -306,7 +306,7 @@
 
 - name: 瑶柱蒸水蛋
   category: 热菜
-  color: red
+  color: orange
   editors_choice: false
   ingredients:
   - name: 鸡蛋
@@ -322,7 +322,7 @@
 
 - name: 蒜蓉金针菇
   category: 热菜
-  color: red
+  color: orange
   editors_choice: false
   ingredients:
   - name: 金针菇
@@ -340,7 +340,7 @@
 
 - name: 红酒汁牛排
   category: 热菜
-  color: red
+  color: orange
   editors_choice: false
   ingredients:
   - name: 牛排
@@ -358,7 +358,7 @@
 
 - name: 烤鸡翅中
   category: 烧烤
-  color: orange
+  color: brown
   editors_choice: false
   ingredients:
   - name: 鸡翅中
@@ -372,7 +372,7 @@
 
 - name: 叉烧酱烤鸡腿
   category: 烧烤
-  color: orange
+  color: brown
   editors_choice: false
   ingredients:
   - name: 鸡腿
@@ -386,7 +386,7 @@
 
 - name: 烤红薯
   category: 烧烤
-  color: orange
+  color: brown
   editors_choice: false
   ingredients:
   - name: 红薯
@@ -396,7 +396,7 @@
 
 - name: 蒜蓉烤番茄
   category: 烧烤
-  color: orange
+  color: brown
   editors_choice: false
   ingredients:
   - name: 番茄
@@ -481,6 +481,30 @@
     quantity: 适量
   - name: 盐
     quantity: 少许
+
+- name: 红薯饭
+  category: 主食
+  color: olive
+  editors_choice: true
+  ingredients:
+  - name: 大米
+    quantity: 足量
+  - name: 红薯粒
+    quantity: 适量
+  - name: 水
+    quantity: 适量
+
+- name: 甜玉米饭
+  category: 主食
+  color: olive
+  editors_choice: false
+  ingredients:
+  - name: 大米
+    quantity: 足量
+  - name: 甜玉米粒
+    quantity: 适量
+  - name: 水
+    quantity: 适量
 
 - name: 香菜鸡蛋水饺
   category: 主食
