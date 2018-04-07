@@ -46,6 +46,22 @@
   - name: 香油
     quantity: 少许
 
+- name: 大拌菜
+  category: 凉菜
+  color: teal
+  label:
+    content: "Editor's Choice"
+    color: yellow
+  ingredients:
+  - name: 苦菊
+    quantity: 适量
+  - name: 紫叶生菜
+    quantity: 适量
+  - name: 圣女果
+    quantity: 少许
+  - name: 丘比大拌菜汁
+    quantity: 少许
+
 - name: 煎豆腐
   category: 热菜
   color: orange
