@@ -182,6 +182,9 @@
 - name: 红烩牛肉
   category: 热菜
   color: orange
+  label:
+    content: "CXX Special"
+    color: pink
   ingredients:
   - name: 牛肉或牛腩
     quantity: 适量
@@ -207,6 +210,9 @@
 - name: 咖喱牛肉
   category: 热菜
   color: orange
+  label:
+    content: "CXX Special"
+    color: pink
   ingredients:
   - name: 牛肉或牛腩
     quantity: 适量
@@ -234,6 +240,9 @@
 - name: 红烧牛肉
   category: 热菜
   color: orange
+  label:
+    content: "CXX Special"
+    color: pink
   ingredients:
   - name: 牛肉或牛腩
     quantity: 适量
@@ -283,6 +292,9 @@
 - name: 蒜蓉大虾
   category: 热菜
   color: orange
+  label:
+    content: "CXX Special"
+    color: pink
   ingredients:
   - name: 大虾
     quantity: 适量
@@ -298,6 +310,9 @@
 - name: 回锅手撕鸡
   category: 热菜
   color: orange
+  label:
+    content: "CXX Special"
+    color: pink
   ingredients:
   - name: 鸡腿
     quantity: 适量
@@ -351,6 +366,9 @@
 - name: 红酒汁牛排
   category: 热菜
   color: orange
+  label:
+    content: "CXX Special"
+    color: pink
   ingredients:
   - name: 牛排
     quantity: 适量
@@ -476,6 +494,9 @@
 - name: 青汁意面
   category: 主食
   color: olive
+  label:
+    content: "CXX Special"
+    color: pink
   ingredients:
   - name: 意面
     quantity: 150g
