@@ -184,7 +184,7 @@
   color: orange
   label:
     content: "CXX Special"
-    color: pink
+    color: violet
   ingredients:
   - name: 牛肉或牛腩
     quantity: 适量
@@ -212,7 +212,7 @@
   color: orange
   label:
     content: "CXX Special"
-    color: pink
+    color: violet
   ingredients:
   - name: 牛肉或牛腩
     quantity: 适量
@@ -242,7 +242,7 @@
   color: orange
   label:
     content: "CXX Special"
-    color: pink
+    color: violet
   ingredients:
   - name: 牛肉或牛腩
     quantity: 适量
@@ -294,7 +294,7 @@
   color: orange
   label:
     content: "CXX Special"
-    color: pink
+    color: violet
   ingredients:
   - name: 大虾
     quantity: 适量
@@ -312,7 +312,7 @@
   color: orange
   label:
     content: "CXX Special"
-    color: pink
+    color: violet
   ingredients:
   - name: 鸡腿
     quantity: 适量
@@ -368,7 +368,7 @@
   color: orange
   label:
     content: "CXX Special"
-    color: pink
+    color: violet
   ingredients:
   - name: 牛排
     quantity: 适量
@@ -496,7 +496,7 @@
   color: olive
   label:
     content: "CXX Special"
-    color: pink
+    color: violet
   ingredients:
   - name: 意面
     quantity: 150g
