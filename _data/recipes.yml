@@ -446,6 +446,12 @@
     quantity: 适量
   - name: 姜蓉
     quantity: 适量
+  - name: 盐
+    quantity: 少许
+  - name: 蒸鱼豉油
+    quantity: 少许
+  - name: 香菜
+    quantity: 少许
 
 - name: 麻酱拌面
   category: 主食
