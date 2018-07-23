@@ -1,10 +1,10 @@
 ---
 layout: cookbook
-active_key: staple_food
+active_key: dessert
 ---
 
 {%- for recipe in site.data.recipes -%}
-    {%- if recipe.category == '主食' -%}
+    {%- if recipe.category == '甜品' -%}
         <div class="ui {{ recipe.color }} card">
             <div class="content">
                 <div class="header">{{ recipe.name }}</div>

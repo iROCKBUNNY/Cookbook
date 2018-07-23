@@ -23,6 +23,11 @@
   active_key: staple_food
   relative_url: "/staple-food/"
 
+- name: 甜品
+  color: pink
+  active_key: dessert
+  relative_url: "/dessert/"
+
 - name: 饮品
   color: blue
   active_key: drink

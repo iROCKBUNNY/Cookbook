@@ -433,6 +433,20 @@
   - name: 黄油
     quantity: 少许
 
+- name: 蒜蓉烤生蚝
+  category: 烧烤
+  color: brown
+  label:
+    content: "CXX Special"
+    color: violet
+  ingredients:
+  - name: 生蚝
+    quantity: 适量
+  - name: 蒜蓉
+    quantity: 适量
+  - name: 姜蓉
+    quantity: 适量
+
 - name: 麻酱拌面
   category: 主食
   color: olive
@@ -571,6 +585,35 @@
     quantity: 少许
   - name: 香油
     quantity: 少许
+
+- name: 水信玄饼
+  category: 甜品
+  color: pink
+  ingredients:
+  - name: 白凉粉
+    quantity: 16g
+  - name: 白砂糖
+    quantity: 10g
+  - name: 水
+    quantity: 500ml
+  - name: 黄豆粉
+    quantity: 适量
+
+- name: 水信玄饼（红糖版）
+  category: 甜品
+  color: pink
+  label:
+    content: "Editor's Choice"
+    color: yellow
+  ingredients:
+  - name: 白凉粉
+    quantity: 16g
+  - name: 红糖
+    quantity: 10g
+  - name: 水
+    quantity: 500ml
+  - name: 黄豆粉
+    quantity: 适量
 
 - name: 柠乐
   category: 饮品
