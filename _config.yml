@@ -19,6 +19,7 @@ github: https://github.com/iROCKBUNNY
 
 image: /images/logo.png
 logo: /images/logo.png
+icon: utensils
 
 plugins:
 - jekyll-seo-tag
