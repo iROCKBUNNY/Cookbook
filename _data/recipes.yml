@@ -73,6 +73,8 @@
     quantity: 1块
   - name: 油
     quantity: 适量
+  - name: 盐
+    quantity: 少许
   - name: 青椒
     quantity: 1个
   - name: 酱油
