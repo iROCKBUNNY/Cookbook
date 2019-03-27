@@ -147,6 +147,24 @@
   - name: 盐
     quantity: 少许
 
+- name: 秘制蒸鱼
+  category: 热菜
+  color: orange
+  label:
+    content: "Editor's Choice"
+    color: yellow
+  ingredients:
+  - name: 鱼
+    quantity: 1条
+  - name: 姜
+    quantity: 适量
+  - name: 葱
+    quantity: 适量
+  - name: 油
+    quantity: 适量
+  - name: 酱油
+    quantity: 少许
+
 - name: 蒜蓉粉丝蒸娃娃菜
   category: 热菜
   color: orange
