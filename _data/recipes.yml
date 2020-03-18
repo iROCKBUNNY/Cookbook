@@ -612,6 +612,24 @@
   - name: 香油
     quantity: 少许
 
+- name: 手抓饼
+  category: 主食
+  color: olive
+  label:
+    content: "Editor's Choice"
+    color: yellow
+  ingredients:
+  - name: 手抓饼专用面饼
+    quantity: 1片
+  - name: 生鸡蛋
+    quantity: 1-2枚
+  - name: 生菜
+    quantity: 适量
+  - name: 橄榄油
+    quantity: 少许
+  - name: 千岛酱
+    quantity: 少许
+
 - name: 水信玄饼
   category: 甜品
   color: pink
