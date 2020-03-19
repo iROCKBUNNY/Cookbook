@@ -1,7 +1,7 @@
 // common.js
 
 // updated at
-dayjs.extend(dayjs_plugin_relativeTime);
+dayjs.extend(window.dayjs_plugin_relativeTime);
 function updateVersion(timestamp) {
     $('#updated-at').removeClass('orange').addClass('green');
     $('#updated-at .detail').text(dayjs(timestamp).fromNow());
