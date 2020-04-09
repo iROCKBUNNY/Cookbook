@@ -531,6 +531,26 @@
   - name: 油
     quantity: 适量
 
+- name: 葱油拌面
+  category: 主食
+  color: olive
+  label:
+    content: "Editor's Choice"
+    color: yellow
+  ingredients:
+  - name: 面条
+    quantity: 250g
+  - name: 香葱
+    quantity: 50g
+  - name: 油
+    quantity: 50g
+  - name: 酱油
+    quantity: 适量
+  - name: 砂糖
+    quantity: 适量
+  - name: 煎荷包蛋
+    quantity: 4个
+
 - name: 青汁意面
   category: 主食
   color: olive
