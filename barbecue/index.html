@@ -8,10 +8,10 @@ active_key: barbecue
         <div class="ui {{ recipe.color }} card">
             <div class="content">
                 <div class="header">{{ recipe.name }}</div>
-                {%- if recipe.label -%}<div class="ui {{ recipe.label.color }} top right attached label">{{ recipe.label.content }}</div>{%- endif -%}
+                {%- if recipe.label -%}<div class="ui mini {{ recipe.label.color }} top right attached label">{{ recipe.label.content }}</div>{%- endif -%}
             </div>
             <div class="content">
-                <div class="ui labels">
+                <div class="ui mini labels">
                     {%- for ingredient in recipe.ingredients -%}
                         <div class="ui label">{{ ingredient.name }}<div class="detail">{{ ingredient.quantity }}</div></div>
                     {%- endfor -%}
